@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/retryvpress/.vuepress/dist/',
+    base: '/retryvpress/docs/.vuepress/dist/',
     title: ' asd ',
     description: 'asd blog',
   }
